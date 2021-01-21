@@ -1,5 +1,5 @@
 import numpy as np
-from scipy import linalg as LA
+from numpy import linalg as LA
 
 import scipy as sc
 from scipy.interpolate import interp1d
